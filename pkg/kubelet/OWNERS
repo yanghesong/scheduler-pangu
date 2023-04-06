@@ -1,0 +1,8 @@
+approvers:
+  - yanghesong
+emeritus_approvers:
+  - yanghesong
+reviewers:
+  - yanghesong
+labels:
+  - area/kubelet
